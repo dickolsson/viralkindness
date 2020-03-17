@@ -14,4 +14,4 @@ Als Nachbarn können wir uns gegenseitig helfen!
 
 1. Waschen Sie Ihre Hände
 2. Drucken Sie 6 Kopien [dieser Karten](/de/card/v1)
-3. Werden Sie die Karte in den Briefkasten Ihres Nachbarn; Eine ausgefüllte Karte und 5 leere Kopien zur Weiterverteilung
+3. Werfen Sie eine ausgefüllte Karte und 5 leere Kopien zur Weiterverteilung in den Briefkasten Ihres Nachbarn
