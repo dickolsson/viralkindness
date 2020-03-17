@@ -11,6 +11,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="en-us"
+                href="https://viralkindness.cards/en-us/card/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr"
                 href="https://viralkindness.cards/fr/card/"
                 />
@@ -35,6 +40,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="en-us"
+                href="https://viralkindness.cards/en-us/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr"
                 href="https://viralkindness.cards/fr/categories/"
                 />
@@ -52,6 +62,11 @@
   
   <url>
     <loc>https://viralkindness.cards/es/card/v1/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://viralkindness.cards/en-us/card/v1/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -76,6 +91,11 @@
   
   <url>
     <loc>https://viralkindness.cards/es/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://viralkindness.cards/en-us/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -104,6 +124,11 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://viralkindness.cards/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://viralkindness.cards/en-us/tags/"
                 />
     <xhtml:link
                 rel="alternate"
