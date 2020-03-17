@@ -13,5 +13,5 @@ Asta însemnă că foarte mulți oameni ar putea să nu mai fie în stare să se
 Ca vecini, putem să ne ajutăm reciproc!
 
 1. Spălați-vă pe mâini
-2. Tipăriți 6 copii al [acestor cartele](/ro/card/v1)
+2. Tipăriți 6 copii ale [acestor cartele](/ro/card/v1)
 3. Aruncați căte un set în cutiile poștale ale vecinilor: 1 copie completată cu datele voastre personale și 5 copii pentru a putea fi redistribuite de vecini
