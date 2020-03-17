@@ -8,7 +8,7 @@ draft: false
 ## Seien Sie freundlich und helfen Sie Ihren Nachbarn
 
 Um [die COVID-19-Pandemie](https://de.wikipedia.org/wiki/COVID-19) einzudämmen, ist es wichtig, soziale Kontakte zu meiden.
-Viele Menschen sind nicht in der Lage oder haben Schierigkeiten, notwendige Lebensmittel einzukaufen.
+Viele Menschen sind nicht in der Lage oder haben Schierigkeiten, notwendige Lebensmittel einzukaufen oder andere Dinge zu erledigen.
 
 Als Nachbarn können wir uns gegenseitig helfen!
 
