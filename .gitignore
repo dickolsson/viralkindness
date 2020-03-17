@@ -1,0 +1,4 @@
+.DS_Store
+.idea
+public
+themes/*/node_modules

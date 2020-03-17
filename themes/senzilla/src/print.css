@@ -1,0 +1,109 @@
+html { height: 100%; }
+
+*,
+*:after,
+*:before {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+/* Clearfix hack by Nicolas Gallagher: http://nicolasgallagher.com/micro-clearfix-hack/ */
+.clearfix:before,
+.clearfix:after {
+  content: " ";
+  display: table;
+}
+
+.clearfix:after {
+  clear: both;
+}
+
+.clearfix {
+  *zoom: 1;
+}
+
+body {
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  font-size: 1rem;
+  color: #333;
+  overflow: scroll;
+  overflow-x: hidden;
+}
+
+a {
+  color: #555;
+  text-decoration: none;
+}
+
+.card {
+  margin: 1rem;
+  border: 1px black solid;
+}
+
+.card > header,
+.card > section {
+  margin: 1rem 0 0;
+  padding: 0 1rem;
+}
+
+.card > footer {
+  background: #eee;
+  padding: 0 1rem;
+}
+
+.card > footer .card--footer {
+  width: 50%;
+  float: left;
+  padding: 1rem 2rem 1rem 0;
+}
+
+.card ul {
+  list-style: none;
+}
+
+.card p {
+  margin-bottom: 1rem;
+}
+
+.card ul.card--intro li {
+  border-bottom: 1px black dashed;
+  margin-bottom: 1rem;
+}
+
+.card ul.card--offer {
+  column-count: 2;
+  column-gap: 0;
+}
+
+.card ul.card--offer li {
+  margin-bottom: 1rem;
+}
+
+.card .card--footer__hashtag strong {
+  color: #fff;
+  background: #000;
+  padding: 5px;
+}
+
+.cut {
+  display: flex;
+  align-items: center;
+  text-align: center;
+}
+
+.cut::before, .cut::after {
+  content: '';
+  flex: 1;
+  border-bottom: 1px black dashed;
+}
+
+.cut::before {
+  margin-right: .25em;
+}
+
+.cut::after {
+  margin-left: .25em;
+}

@@ -1,0 +1,11 @@
+<header class="clearfix">
+	<nav>
+		<ul>
+		{{ if .IsTranslated }}
+		{{ range .Translations }}
+			<li><a rel="alternate" href="{{ .RelPermalink }}" hreflang="{{ .Lang }}" lang="{{ .Lang }}">{{ .Language.LanguageName }}</a></li>
+		{{ end }}
+		{{ end }}
+		</ul>
+	</nav>
+</header>

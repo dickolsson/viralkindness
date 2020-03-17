@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="{{ with .Site.Params.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
+	<head>
+		{{ partial "head.html" . }}
+	</head>
+	<body>
+
+		{{ partial "card.html" . }}
+
+		<div class="cut">
+			&#9986;
+		</div>
+
+		{{ partial "card.html" . }}
+
+	</body>
+</html>

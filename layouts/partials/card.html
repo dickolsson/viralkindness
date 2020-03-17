@@ -1,0 +1,27 @@
+<article class="card">
+  <header>
+    <h1>{{ .Title }}</h1>
+    <ul class="card--intro">
+      {{ range .Params.intro }}
+      <li><strong>{{ . }}:</strong></li>
+      {{ end }}
+    </ul>
+  </header>
+  <section>
+    {{ .Content }}
+    <ul class="card--offer">
+      {{ range .Params.offers }}
+      <li>&#9744; {{ . }}</li>
+      {{ end }}
+    </ul>
+  </section>
+  <footer class="clearfix">
+    <div class="card--footer">
+      {{ .Params.footer }}
+    </div>
+    <div class="card--footer">
+      <p class="card--footer__print">{{ .Params.print }}: <a href="https://viralkindness.cards">www.viralkindness.cards</a></p>
+      <p class="card--footer__hashtag"><strong>#ViralKindness</strong></p>
+    </div>
+  </footer>
+</article>

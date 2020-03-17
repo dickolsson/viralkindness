@@ -1,0 +1,12 @@
+name: Senzilla
+license: GPLv3
+licenselink: https://github.com/dickolsson/hugo-senzilla/blob/master/LICENSE.md
+description: A simple Hugo theme.
+homepage: https://github.com/dickolsson/hugo-senzilla
+tags:
+  - simple
+  - gallery
+
+author:
+  name: Dick Olsson
+  homepage: https://www.senzilla.io
