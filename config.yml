@@ -14,17 +14,25 @@ params:
 
 languages:
   en:
-    languageName: English
-    languageCode: en-US
+    languageName: English (UK)
+    languageCode: en-UK
     weight: 1
     params:
       description: Viral kindness cards to help your neighbour with COVID-19
       keywords: neighbour, viral, kindness, help, corona, covid19
       footer: "Contribute to this website: https://github.com/dickolsson/viralkindness"
+  en-us:
+    languageName: English (US)
+    languageCode: en-US
+    weight: 1
+    params:
+      description: Viral kindness cards to help your neighbor with COVID-19
+      keywords: neighbor, viral, kindness, help, corona, covid19
+      footer: "Contribute to this website: https://github.com/dickolsson/viralkindness"
   fr:
     languageName: Français
     languageCode: fr-FR
-    weight: 2
+    weight: 3
     params:
       description: Cartes de gentillesse virale pour aider votre voisin avec COVID-19
       keywords: voisin, viral, gentillesse, aide, corona, covid19
@@ -32,7 +40,7 @@ languages:
   es:
     languageName: Español
     languageCode: es-ES
-    weight: 3
+    weight: 4
     params:
       description: Tarjetas de amabilidad viral para ayudar a tu vecina con COVID-19
       keywords: vecina, viral, amabilidad, ayuda, corona, covid19
@@ -40,7 +48,7 @@ languages:
   de:
     languageName: Deutsch
     languageCode: de-DE
-    weight: 4
+    weight: 5
     params:
       description: Virale Gütekarten, um Ihrem Nachbarn mit COVID-19 zu helfen
       keywords: nachbar, viral, freundlichkeit, hilfe, corona, covid19
