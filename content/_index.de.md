@@ -5,13 +5,13 @@ draft: false
 
 # #ViralKindness
 
-## Verbreiten Sie nur Freundlichkeit zu Ihren Nachbarn
+## Seien Sie freundlich und helfen Sie Ihren Nachbarn
 
-Um [die COVID-19-Pandemie](https://de.wikipedia.org/wiki/COVID-19) einzudämmen, ist es wichtig, soziale Distanzierung zu üben.
-Dies bedeutet jedoch, dass viele Menschen, die möglicherweise nicht vorbereitet sind, ohne Hilfe oder die Fähigkeit bleiben, die notwendigen Vorräte zu beschaffen.
+Um [die COVID-19-Pandemie](https://de.wikipedia.org/wiki/COVID-19) einzudämmen, ist es wichtig, soziale Kontakte zu meiden.
+Viele Menschen sind nicht in der Lage oder haben Schierigkeiten, notwendige Lebensmittel einzukaufen.
 
 Als Nachbarn können wir uns gegenseitig helfen!
 
-1. Wasche deine Hände
+1. Waschen Sie Ihre Hände
 2. Drucken Sie 6 Kopien [dieser Karten](/de/card/v1)
-3. In den Briefkasten Ihres Nachbarn; 1 fertige Kopie und 5 leere Kopien zur Weiterverteilung
+3. Werden Sie die Karte in den Briefkasten Ihres Nachbarn; Eine ausgefüllte Karte und 5 leere Kopien zur Weiterverteilung
