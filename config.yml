@@ -24,7 +24,7 @@ languages:
   en-us:
     languageName: English (US)
     languageCode: en-US
-    weight: 1
+    weight: 2
     params:
       description: Viral kindness cards to help your neighbor with COVID-19
       keywords: neighbor, viral, kindness, help, corona, covid19
@@ -53,3 +53,11 @@ languages:
       description: Virale Gütekarten, um Ihrem Nachbarn mit COVID-19 zu helfen
       keywords: nachbar, viral, freundlichkeit, hilfe, corona, covid19
       footer: "Tragen Sie zu dieser Website bei: https://github.com/dickolsson/viralkindness"
+  ro:
+    languageName: Română
+    languageCode: ro-MD
+    weight: 6
+    params:
+      description: Cartele de binefacere virale pentru a ajuta vecinii tăi în legătură cu COVID-19
+      keywords: vecini, viral, binefacere, ajutor, corona, covid19
+      footer: "Contribuie la acest proiect: https://github.com/dickolsson/viralkindness"
