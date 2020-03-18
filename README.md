@@ -1,6 +1,9 @@
 # Viral kindness cards
 
-This is the source code to [www.viralkindness.cards](https://viralkindness.cards).
+This is the source code of [www.viralkindness.cards](https://viralkindness.cards).
+
+The original idea and card came from Becky Wass and [@MrJonnyGreen](https://twitter.com/MrJonnyGreen):
+[htheguardian.com/world/2020/mar/14/coronavirus-campaign-launched-offering-help-to-those-self-isolating](https://www.theguardian.com/world/2020/mar/14/coronavirus-campaign-launched-offering-help-to-those-self-isolating)
 
 ## Contribute a translation
 
