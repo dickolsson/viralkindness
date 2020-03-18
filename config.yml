@@ -69,3 +69,11 @@ languages:
       description: Kort med smittsam snällhet till din granne angående COVID-19
       keywords: granne, viral, snällhet, hjälp, corona, covid19
       footer: "Hjälp till med denna hemsidan: https://github.com/dickolsson/viralkindness"
+  nl-be:
+    languageName: Nederlands (BE)
+    languageCode: en-BE
+    weight: 8
+    params:
+      description: Virale vriendelijkheidskaartjes om je buren doorheen COVID-19 te helpen.
+      keywords: buren, viraal, vriendelijkheid, hulp, corona, covid19
+      footer: "Draag bij aan deze website: https://github.com/dickolsson/viralkindness"
