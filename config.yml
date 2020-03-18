@@ -61,3 +61,11 @@ languages:
       description: Cartele de binefacere virale pentru a ajuta vecinii tăi în legătură cu COVID-19
       keywords: vecini, viral, binefacere, ajutor, corona, covid19
       footer: "Contribuie la acest proiect: https://github.com/dickolsson/viralkindness"
+  sv:
+    languageName: Svenska
+    languageCode: sv-SE
+    weight: 7
+    params:
+      description: Kort med smittsam snällhet till din granne angående COVID-19
+      keywords: granne, viral, snällhet, hjälp, corona, covid19
+      footer: "Hjälp till med denna hemsidan: https://github.com/dickolsson/viralkindness"
