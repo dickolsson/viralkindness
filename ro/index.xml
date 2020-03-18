@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Start on Viral Kindness Cards</title>
+    <link>https://viralkindness.cards/ro/</link>
+    <description>Recent content in Start on Viral Kindness Cards</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ro-MD</language>
+    
+	<atom:link href="https://viralkindness.cards/ro/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Salut vecini!</title>
+      <link>https://viralkindness.cards/ro/card/v1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://viralkindness.cards/ro/card/v1/</guid>
+      <description>Dacă sunteți izolați la domiciliu, pot să vă ajut cu punctele enumerate mai jos. Pentru asta sunați sau trimiteți un mesaj și am să fac tot posibilul ca să vă ajut (gratuit)!</description>
+    </item>
+    
+  </channel>
+</rss>

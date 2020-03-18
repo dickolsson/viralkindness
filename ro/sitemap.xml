@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://viralkindness.cards/es/card/</loc>
+    <loc>https://viralkindness.cards/ro/card/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -21,13 +21,13 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="https://viralkindness.cards/de/card/"
+                hreflang="es"
+                href="https://viralkindness.cards/es/card/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ro"
-                href="https://viralkindness.cards/ro/card/"
+                hreflang="de"
+                href="https://viralkindness.cards/de/card/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -36,13 +36,13 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="es"
-                href="https://viralkindness.cards/es/card/"
+                hreflang="ro"
+                href="https://viralkindness.cards/ro/card/"
                 />
   </url>
   
   <url>
-    <loc>https://viralkindness.cards/es/categories/</loc>
+    <loc>https://viralkindness.cards/ro/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -60,13 +60,13 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="https://viralkindness.cards/de/categories/"
+                hreflang="es"
+                href="https://viralkindness.cards/es/categories/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ro"
-                href="https://viralkindness.cards/ro/categories/"
+                hreflang="de"
+                href="https://viralkindness.cards/de/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -75,13 +75,13 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="es"
-                href="https://viralkindness.cards/es/categories/"
+                hreflang="ro"
+                href="https://viralkindness.cards/ro/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://viralkindness.cards/es/card/v1/</loc>
+    <loc>https://viralkindness.cards/ro/card/v1/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -99,13 +99,13 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="https://viralkindness.cards/de/card/v1/"
+                hreflang="es"
+                href="https://viralkindness.cards/es/card/v1/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ro"
-                href="https://viralkindness.cards/ro/card/v1/"
+                hreflang="de"
+                href="https://viralkindness.cards/de/card/v1/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -114,13 +114,13 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="es"
-                href="https://viralkindness.cards/es/card/v1/"
+                hreflang="ro"
+                href="https://viralkindness.cards/ro/card/v1/"
                 />
   </url>
   
   <url>
-    <loc>https://viralkindness.cards/es/</loc>
+    <loc>https://viralkindness.cards/ro/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -138,13 +138,13 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="https://viralkindness.cards/de/"
+                hreflang="es"
+                href="https://viralkindness.cards/es/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ro"
-                href="https://viralkindness.cards/ro/"
+                hreflang="de"
+                href="https://viralkindness.cards/de/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -153,13 +153,13 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="es"
-                href="https://viralkindness.cards/es/"
+                hreflang="ro"
+                href="https://viralkindness.cards/ro/"
                 />
   </url>
   
   <url>
-    <loc>https://viralkindness.cards/es/tags/</loc>
+    <loc>https://viralkindness.cards/ro/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -177,13 +177,13 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="https://viralkindness.cards/de/tags/"
+                hreflang="es"
+                href="https://viralkindness.cards/es/tags/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ro"
-                href="https://viralkindness.cards/ro/tags/"
+                hreflang="de"
+                href="https://viralkindness.cards/de/tags/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -192,8 +192,8 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="es"
-                href="https://viralkindness.cards/es/tags/"
+                hreflang="ro"
+                href="https://viralkindness.cards/ro/tags/"
                 />
   </url>
   
