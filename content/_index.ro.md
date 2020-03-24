@@ -7,7 +7,7 @@ draft: false
 
 ## Distribuiți bunătate cu vecinii voștri
 
-Pentru a preveni [epidemia COVID-19](https://ro.wikipedia.org/wiki/COVID-19) este important să ne distanțăm social.
+Pentru a preveni [pandemia COVID-19](https://ro.wikipedia.org/wiki/COVID-19) este important să ne distanțăm social.
 Asta însemnă că foarte mulți oameni ar putea să nu mai fie în stare să se asigure cu strictul necesar.
 
 Ca vecini, putem să ne ajutăm reciproc!
